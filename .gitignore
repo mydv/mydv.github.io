@@ -1,3 +1,12 @@
 .vscode
 .idea
 .DS_Store
+
+# Node.js dependencies
+node_modules/
+
+# Astro build output
+/.astro/
+
+# npm package lock file
+package-lock.json
